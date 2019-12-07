@@ -1,0 +1,4 @@
+Move the fractal image so the update menu can be seen. 
+Update the escape distance and hit enter.
+Update the escape time and hit enter.
+then click on the fractal you would like to draw with the time and distance

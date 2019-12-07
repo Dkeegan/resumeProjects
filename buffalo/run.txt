@@ -1,0 +1,5 @@
+run.txt
+
+run the driver as a java program. then change the sets
+as you would like via the menu items. the currently selected will
+be shown in the menu. Close by the menu as well.
